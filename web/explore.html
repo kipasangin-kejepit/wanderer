@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wanderer · SPHEREx deep sky terminal</title>
+<meta name="description" content="Fly through space, lock onto any star and watch NASA SPHEREx images of it change over time.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script type="importmap">{ "imports": { "three": "./vendor/three/three.module.min.js" } }</script>
+</head>
+<body class="mode-boot">
+
+<!-- 1. Boot sequence -->
+<div id="boot" class="boot" role="dialog" aria-label="Starting Wanderer">
+  <div class="boot-inner">
+    <div class="boot-logo">WANDERER</div>
+    <div class="boot-sub">DEEP SKY SURVEY TERMINAL · v1.0 · ASTRO3CLUB</div>
+    <pre id="bootLog" class="boot-log" aria-live="polite"></pre>
+    <button id="bootGo" class="btn primary" type="button" hidden>ENGAGE</button>
+    <button id="bootSkip" class="boot-skip" type="button">skip ›</button>
+  </div>
+</div>
+
+<!-- 2. 3D starmap -->
+<div id="mapStage" class="map-stage" aria-label="3D map of nearby stars. Drag to rotate, scroll to zoom, click a star."></div>
+<div id="mapLabels" class="map-labels" aria-hidden="true"></div>
+<div id="mapHud" class="map-hud">
+  <div class="panel map-title">
+    <div class="kicker">NAV // LOCAL NEIGHBOURHOOD</div>
+    <h1>Stars within 15 light years</h1>
+    <p>Drag to rotate · scroll to zoom · click a star to lock on. <span class="tag">◇ SPHEREx archive</span></p>
+  </div>
+</div>
+
+<!-- 3. Sky view -->
+<div id="sky" class="sky" aria-label="Interactive sky map. Drag to move, scroll to zoom, click any star."></div>
+<canvas id="overlay" class="overlay" aria-hidden="true"></canvas>
+<div id="fallback" class="fallback" hidden><canvas id="view" width="720" height="720" aria-label="SPHEREx image"></canvas></div>
+
+<header class="top panel">
+  <a class="brand" href="explore.html" aria-label="Wanderer sky explorer">
+    <svg width="30" height="30" viewBox="0 0 200 200" aria-hidden="true">
+      <rect x="30" y="30" width="110" height="110" fill="none" stroke="currentColor" stroke-width="7" opacity=".35"/>
+      <rect x="60" y="60" width="110" height="110" fill="none" stroke="#5ef2ff" stroke-width="9"/>
+      <circle cx="80" cy="96" r="13" fill="none" stroke="currentColor" stroke-width="5" stroke-dasharray="6 6" opacity=".6"/>
+      <circle cx="140" cy="124" r="17" fill="#ff8a5c"/>
+    </svg>
+    <span><b>WANDERER</b><small>SPHEREx DEEP SKY TERMINAL</small></span>
+  </a>
+  <a class="classify-btn home-btn" href="./" title="Back to the home page: Spot the Wanderer"><span aria-hidden="true">⌂</span> Home <small>Spot the Wanderer</small></a>
+  <div class="seg modes" role="group" aria-label="View">
+    <button type="button" data-view="map">◎ Starmap</button>
+    <button type="button" data-view="sky">✦ Sky view</button>
+  </div>
+  <form id="search" class="search" autocomplete="off">
+    <label class="sr" for="q">Object name or coordinates</label>
+    <input id="q" name="q" placeholder="Set course: Barnard's Star · 133.795 -7.245">
+    <label class="sr" for="fov">SPHEREx field size</label>
+    <select id="fov" name="fov" title="Scan size: changing it rescans the current target at that size (needs the live server)">
+      <option value="3">3′</option><option value="4" selected>4′</option><option value="6">6′</option><option value="10">10′</option><option value="20">20′</option>
+    </select>
+    <button type="submit" class="primary">Warp</button>
+    <button type="button" id="uncharted" title="Scan a random patch of sky nobody here has looked at yet (needs the scan server)" aria-label="Uncharted: scan a random patch of sky">✦<span class="lbl"> Uncharted</span></button>
+  </form>
+  <div class="survey seg small sky-only" role="group" aria-label="Background sky">
+    <button data-survey="https://alasky.cds.unistra.fr/DSS/DSSColor/" class="on" title="Visible light, like your eyes see">Visible</button>
+    <button data-survey="https://alasky.cds.unistra.fr/2MASS/Color/" title="2MASS near-infrared">2MASS</button>
+    <button data-survey="https://alasky.cds.unistra.fr/AllWISE/RGB-W4-W2-W1/" title="WISE infrared">WISE</button>
+  </div>
+  <button id="modeBtn" type="button" class="mode-btn">◐ Research mode</button>
+  <button id="helpBtn" type="button" class="help-btn" title="How to use Wanderer (quick tour)" aria-label="Quick tour">?</button>
+  <button id="logBtn" type="button" class="log-btn" aria-haspopup="dialog">LOG <span id="logCount">0/10</span></button>
+</header>
+
+<nav id="chips" class="chips" aria-label="Targets with SPHEREx archive"></nav>
+<div id="banner" class="banner panel" hidden></div>
+<div id="toast" class="toast panel" hidden></div>
+<div id="hud" class="hud panel sky-only" hidden></div>
+<div id="coord" class="coord sky-only" aria-live="off"></div>
+<button id="lookHere" class="look btn sky-only" type="button">Initiate SPHEREx scan here</button>
+
+<!-- Holographic projection screen: opens when you lock onto a star -->
+<section id="starCard" class="holo" role="dialog" aria-label="Target lock" hidden></section>
+
+<!-- Easter-egg transmissions and achievements -->
+<section id="transmission" class="transmission" role="status" hidden></section>
+<div id="achv" class="achv" role="status" hidden></div>
+<section id="logPanel" class="log-panel panel" role="dialog" aria-label="Discovery log" hidden></section>
+<section id="surveyPanel" class="survey-panel panel" role="dialog" aria-label="Red-source survey results" hidden></section>
+<div id="ufo" class="ufo" aria-hidden="true" hidden>
+  <svg viewBox="0 0 120 60" width="120" height="60"><ellipse cx="60" cy="38" rx="56" ry="12" fill="#1c2b3a" stroke="#5ef2ff" stroke-width="2"/><path d="M34 34 Q60 2 86 34" fill="#5ef2ff" fill-opacity=".25" stroke="#5ef2ff" stroke-width="2"/><circle cx="30" cy="40" r="3" fill="#ff4fd8"/><circle cx="60" cy="44" r="3" fill="#ffb547"/><circle cx="90" cy="40" r="3" fill="#ff4fd8"/></svg>
+</div>
+
+<aside id="drawer" class="drawer panel sky-only">
+  <button id="drawerToggle" class="drawer-toggle" type="button" aria-expanded="true" aria-controls="drawerBody">Target data</button>
+  <div id="drawerBody" class="drawer-body">
+    <section>
+      <h2 id="tName">No target locked</h2>
+      <p id="tBlurb" class="muted">Drag the sky, scroll to zoom, click any star.</p>
+      <dl id="tMeta" class="meta"></dl>
+    </section>
+    <section>
+      <h3>Pixel inspector</h3>
+      <p class="muted small" id="pixLabel">Click inside the SPHEREx frame to pick a pixel.</p>
+      <p class="small" id="pixClass"></p>
+      <div id="specChart" class="chart" aria-label="Spectrum"></div>
+      <div id="lcChart" class="chart small-chart" aria-label="Light curve"></div>
+    </section>
+    <section id="moversCard" hidden>
+      <h3>Candidate changes</h3>
+      <ol id="moversList" class="movers"></ol>
+      <p class="muted small" id="moversNote"></p>
+      <p class="muted small">Found by comparing the first and last epoch, then checked against Gaia DR3 and CatWISE2020 at the matching dates. VET = artefact score from five tests; <b>Report</b> writes a full write-up you can save as PDF or send to the team.</p>
+    </section>
+  </div>
+</aside>
+
+<div class="dock panel sky-only" id="dock">
+  <div class="row">
+    <button id="play" class="icon" type="button" aria-label="Play">▶</button>
+    <div id="epochs" class="seg" role="group" aria-label="Epoch"></div>
+    <label class="inline">Speed <input id="speed" type="range" min="150" max="1500" step="50" value="700" aria-label="Frame duration"></label>
+    <label class="inline">Feed <input id="opacity" type="range" min="0" max="100" value="100" aria-label="SPHEREx layer opacity"></label>
+  </div>
+  <div class="row timeline-row">
+    <span class="inline">Time</span>
+    <input id="timeline" type="range" min="0" max="0" value="0" step="1" aria-label="Timeline: drag to move through time">
+    <span id="tlLabel" class="tl-label"></span>
+  </div>
+  <div class="row">
+    <div class="seg" role="group" aria-label="View mode">
+      <button type="button" data-mode="blink" class="on">Blink</button>
+      <button type="button" data-mode="diff">Difference</button>
+      <button type="button" data-mode="rgb">Color</button>
+      <button type="button" data-mode="frames" title="Step through every single SPHEREx exposure in time order">Every frame</button>
+    </div>
+    <div id="bands" class="seg" role="group" aria-label="Detector band"></div>
+  </div>
+  <div class="row">
+    <label class="inline">Contrast <input id="contrast" type="range" min="0" max="100" value="55"></label>
+    <label class="inline">Brightness <input id="bright" type="range" min="0" max="100" value="50"></label>
+    <label class="check"><input id="showTrack" type="checkbox" checked> Predicted motion</label>
+    <label class="check"><input id="follow" type="checkbox" checked> Follow</label>
+    <label class="check"><input id="smooth" type="checkbox"> Smooth</label>
+    <label class="check"><input id="labels" type="checkbox" checked> Known objects</label>
+    <label class="check"><input id="gaia" type="checkbox"> Known stars</label>
+    <button id="movers" type="button" class="primary">Find movers</button>
+    <button id="share" type="button">Copy link</button>
+  </div>
+</div>
+
+<footer class="credit">SPHEREx (QR2, DR1, QR3): NASA/JPL-Caltech via <a href="https://irsa.ipac.caltech.edu/Missions/spherex.html">IRSA</a> · Sky: <a href="https://aladin.cds.unistra.fr/">Aladin Lite</a>, CDS · Everything shown is real data.</footer>
+
+<script type="module">
+  // Aladin Lite ships as an ES module; expose it as window.A for app.js.
+  window.aladinReady = import("./vendor/aladin-3.8.2.js")
+    .then((mod) => { window.A = mod.default; })
+    .catch((e) => console.warn("Aladin Lite could not load", e));
+</script>
+<script src="config.js"></script>
+<script src="fx.js"></script>
+<script src="analysis.js" defer></script>
+<script src="app.js" defer></script>
+<script src="tutorial.js" defer></script>
+<script src="survey.js" defer></script>
+<script type="module" src="starmap.js"></script>
+</body>
+</html>
