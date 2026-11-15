@@ -1,0 +1,100 @@
+{
+ "packs": [
+  {
+   "slug": "3iatlas",
+   "name": "3I/ATLAS",
+   "ra": 246.88623033333337,
+   "dec": -16.80682055284553,
+   "fov_arcmin": 5.0,
+   "n_frames": 123,
+   "n_epochs": 5,
+   "kind": "interstellar comet",
+   "blurb": "Only the third object ever seen passing through our Solar System from another star. The frame follows the comet, so it stays still while the background stars slide past.",
+   "tracking": true
+  },
+  {
+   "slug": "_synthetic",
+   "name": "Synthetic test field",
+   "ra": 133.7,
+   "dec": -7.2,
+   "fov_arcmin": 6.0475,
+   "n_frames": 306,
+   "n_epochs": 3,
+   "kind": "test data",
+   "blurb": "Fake sky: a brown dwarf moves near the centre, a star to the upper left changes brightness.",
+   "tracking": false
+  },
+  {
+   "slug": "barnard",
+   "name": "Barnard's Star",
+   "ra": 269.4462745440492,
+   "dec": 4.768203512222222,
+   "fov_arcmin": 6.0,
+   "n_frames": 241,
+   "n_epochs": 2,
+   "kind": "fast-moving red dwarf",
+   "blurb": "The fastest-moving star in our sky: about 10 arcseconds per year, roughly 1.7 SPHEREx pixels between surveys six months apart.",
+   "tracking": false
+  },
+  {
+   "slug": "epsindib",
+   "name": "Epsilon Indi B",
+   "ra": 331.0963303568097,
+   "dec": -56.80059788888889,
+   "fov_arcmin": 5.0,
+   "n_frames": 333,
+   "n_epochs": 3,
+   "kind": "pair of brown dwarfs",
+   "blurb": "Two brown dwarfs orbiting each other, together orbiting the star Epsilon Indi A. They move about 4.7 arcseconds per year.",
+   "tracking": false
+  },
+  {
+   "slug": "hygiea",
+   "name": "10 Hygiea",
+   "ra": 95.00604879464285,
+   "dec": 25.071104375,
+   "fov_arcmin": 4.0,
+   "n_frames": 112,
+   "n_epochs": 8,
+   "kind": "asteroid",
+   "blurb": "The fourth-largest asteroid in the main belt, about 430 km across. The frame follows it over several days.",
+   "tracking": true
+  },
+  {
+   "slug": "rdra",
+   "name": "R Draconis",
+   "ra": 248.167375,
+   "dec": 66.754944,
+   "fov_arcmin": 3.0,
+   "n_frames": 544,
+   "n_epochs": 3,
+   "kind": "Mira variable",
+   "blurb": "A pulsating red giant whose brightness swings by a large factor over about 8 months. Compare its brightness between epochs.",
+   "tracking": false
+  },
+  {
+   "slug": "rwaur",
+   "name": "RW Aurigae",
+   "ra": 76.956417,
+   "dec": 30.401417,
+   "fov_arcmin": 3.0,
+   "n_frames": 224,
+   "n_epochs": 2,
+   "kind": "variable young star",
+   "blurb": "A young star still surrounded by its planet-forming disk, which periodically dims it. Watch its brightness, not its position.",
+   "tracking": false
+  },
+  {
+   "slug": "wise0855",
+   "name": "WISE 0855-0714",
+   "ra": 133.75987044113984,
+   "dec": -7.242248930555556,
+   "fov_arcmin": 6.0,
+   "n_frames": 256,
+   "n_epochs": 3,
+   "kind": "coldest known brown dwarf",
+   "blurb": "The coldest brown dwarf known (about -25 C), only 7.4 light years away. Very faint and very red: look at the longest-wavelength detector.",
+   "tracking": false
+  }
+ ]
+}
