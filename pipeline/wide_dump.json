@@ -1,0 +1,1914 @@
+{
+ "wide_barnard": [
+  {
+   "kind": "moved",
+   "x": 91,
+   "y": 123,
+   "from": [
+    92,
+    123
+   ],
+   "snr": 216.6,
+   "known": "Gaia DR3 4472837804589123456",
+   "pm": 0,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 27,
+   "y": 141,
+   "from": [
+    27,
+    140
+   ],
+   "snr": 212.7,
+   "known": "Gaia DR3 4472835193248957440",
+   "pm": 7.772130853247388,
+   "vet": 40,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 47,
+   "y": 181,
+   "from": [
+    48,
+    182
+   ],
+   "snr": 170.2,
+   "known": "Gaia DR3 4472845226290352256",
+   "pm": 7.300780026819052,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 27,
+   "y": 52,
+   "from": [
+    28,
+    52
+   ],
+   "snr": 164.2,
+   "known": "Gaia DR3 4472819795783341440",
+   "pm": 7.916404234246759,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 75,
+   "y": 135,
+   "from": [
+    76,
+    136
+   ],
+   "snr": 162.8,
+   "known": "Gaia DR3 4472837942025804800",
+   "pm": 4.453348964543426,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 19,
+   "y": 181,
+   "from": [
+    20,
+    182
+   ],
+   "snr": 161.8,
+   "known": "Gaia DR3 4472844539095568384",
+   "pm": 13.988220937631775,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 111,
+   "y": 174,
+   "from": [
+    112,
+    174
+   ],
+   "snr": 138.1,
+   "known": "Gaia DR3 4472886045657153152",
+   "pm": 0.9073147193780116,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 161,
+   "y": 134,
+   "from": [
+    162,
+    135
+   ],
+   "snr": 115.8,
+   "known": "Gaia DR3 4472884224591040512",
+   "pm": 0,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 170,
+   "y": 10,
+   "from": [
+    171,
+    11
+   ],
+   "snr": 109.2,
+   "known": "Gaia DR3 4472808083415164928",
+   "pm": 1.6984021902953375,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 168,
+   "y": 162,
+   "from": [
+    167,
+    162
+   ],
+   "snr": 106.4,
+   "known": "Gaia DR3 4472884701329105536",
+   "pm": 13.895895257233338,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 141,
+   "y": 105,
+   "from": [
+    142,
+    105
+   ],
+   "snr": 106.3,
+   "known": "Gaia DR3 4472836563335659008",
+   "pm": 8.75711470748214,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 41,
+   "y": 130,
+   "from": [
+    41,
+    131
+   ],
+   "snr": 104.7,
+   "known": "Gaia DR3 4472835055807757440",
+   "pm": 2.1550002320185486,
+   "vet": 40,
+   "cls": "Normal star"
+  }
+ ],
+ "wide_epsindib": [
+  {
+   "kind": "moved",
+   "x": 158,
+   "y": 93,
+   "from": [
+    159,
+    94
+   ],
+   "snr": 292.6,
+   "known": null,
+   "pm": null,
+   "vet": 40,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 164,
+   "y": 90,
+   "from": [
+    166,
+    87
+   ],
+   "snr": 285.3,
+   "known": "Gaia DR3 6412595217576583552",
+   "pm": 9.548454953551387,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 160,
+   "y": 101,
+   "from": [
+    161,
+    100
+   ],
+   "snr": 219.4,
+   "known": null,
+   "pm": null,
+   "vet": 13,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 8,
+   "y": 160,
+   "from": [
+    9,
+    161
+   ],
+   "snr": 139.3,
+   "known": "Gaia DR3 6412618174178029440",
+   "pm": 15.629262618562656,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 170,
+   "y": 92,
+   "from": [
+    168,
+    93
+   ],
+   "snr": 91.7,
+   "known": null,
+   "pm": null,
+   "vet": 20,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 87,
+   "y": 113,
+   "from": [
+    88,
+    113
+   ],
+   "snr": 65.1,
+   "known": "Gaia DR3 6412596458823395328",
+   "pm": 32.4538038602565,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 170,
+   "y": 99,
+   "from": [
+    165,
+    100
+   ],
+   "snr": 61.7,
+   "known": "Gaia DR3 6412595320655802368",
+   "pm": 14.520779111328704,
+   "vet": 8,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 154,
+   "y": 99,
+   "from": [
+    151,
+    102
+   ],
+   "snr": 59.3,
+   "known": "Gaia DR3 6412595629893446528",
+   "pm": 19.289740537394483,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 164,
+   "y": 76,
+   "from": [
+    164,
+    77
+   ],
+   "snr": 46.1,
+   "known": "Gaia DR3 6412595118793614976",
+   "pm": 75.78441383292478,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 111,
+   "y": 62,
+   "from": [
+    112,
+    62
+   ],
+   "snr": 45.2,
+   "known": "Gaia DR3 6412594259800093568",
+   "pm": 23.20528495838825,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 147,
+   "y": 118,
+   "from": [
+    148,
+    119
+   ],
+   "snr": 40.8,
+   "known": "Gaia DR3 6412595771628639616",
+   "pm": 7.663502919683662,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 156,
+   "y": 105,
+   "from": [
+    159,
+    104
+   ],
+   "snr": 39.5,
+   "known": null,
+   "pm": null,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  }
+ ],
+ "wide_j004602d84p233718d1": [
+  {
+   "kind": "moved",
+   "x": 118,
+   "y": 133,
+   "from": [
+    117,
+    134
+   ],
+   "snr": 582.8,
+   "known": "Gaia DR3 2803363022826587008",
+   "pm": 21.38309577680463,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 80,
+   "y": 148,
+   "from": [
+    79,
+    147
+   ],
+   "snr": 426.1,
+   "known": "Gaia DR3 2803386387448724096",
+   "pm": 17.17077080389812,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 116,
+   "y": 139,
+   "from": [
+    117,
+    139
+   ],
+   "snr": 403.5,
+   "known": "Gaia DR3 2803365973469112832",
+   "pm": 174.16989749666845,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 3,
+   "y": 24,
+   "from": [
+    2,
+    23
+   ],
+   "snr": 262.2,
+   "known": "Gaia DR3 2803169165182758656",
+   "pm": 13.415101378670233,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 155,
+   "y": 170,
+   "from": [
+    156,
+    170
+   ],
+   "snr": 185.8,
+   "known": "Gaia DR3 2803367145995186944",
+   "pm": 151.91299687979298,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 91,
+   "y": 14,
+   "from": [
+    92,
+    14
+   ],
+   "snr": 130.2,
+   "known": "Gaia DR3 2803170608291678080",
+   "pm": 19.801817214589168,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 144,
+   "y": 132,
+   "from": [
+    145,
+    132
+   ],
+   "snr": 127.9,
+   "known": "Gaia DR3 2803365531087487488",
+   "pm": 16.61660726502254,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 126,
+   "y": 43,
+   "from": [
+    125,
+    43
+   ],
+   "snr": 101.8,
+   "known": "Gaia DR3 2803358998442226944",
+   "pm": 6.132766830721676,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 55,
+   "y": 65,
+   "from": [
+    56,
+    64
+   ],
+   "snr": 96.1,
+   "known": "Gaia DR3 2803173180976928256",
+   "pm": 18.833227896460023,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 85,
+   "y": 176,
+   "from": [
+    86,
+    176
+   ],
+   "snr": 77.9,
+   "known": "Gaia DR3 2803389750408062848",
+   "pm": 6.428118309427729,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 113,
+   "y": 32,
+   "from": [
+    112,
+    33
+   ],
+   "snr": 68.9,
+   "known": "Gaia DR3 2803171634788647808",
+   "pm": 5.930404370698511,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 104,
+   "y": 137,
+   "from": [
+    104,
+    138
+   ],
+   "snr": 68.9,
+   "known": "Gaia DR3 2803362984171874944",
+   "pm": 33.64396850848603,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  }
+ ],
+ "wide_j041518d20m494437d7": [
+  {
+   "kind": "moved",
+   "x": 62,
+   "y": 138,
+   "from": [
+    63,
+    138
+   ],
+   "snr": 161,
+   "known": "Gaia DR3 4782627370372208640",
+   "pm": 13.175412023917884,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 171,
+   "y": 14,
+   "from": [
+    171,
+    15
+   ],
+   "snr": 45.7,
+   "known": "Gaia DR3 4782629294517581312",
+   "pm": 15.114329128347048,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 19,
+   "y": 4,
+   "from": [
+    18,
+    4
+   ],
+   "snr": 15.9,
+   "known": "Gaia DR3 4782614622909279488",
+   "pm": 4.439065216912227,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 29,
+   "y": 24,
+   "from": [
+    28,
+    24
+   ],
+   "snr": 9.1,
+   "known": "Gaia DR3 4782620773302447488",
+   "pm": 1.6742738724593416,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 12,
+   "y": 3,
+   "from": [
+    11,
+    3
+   ],
+   "snr": 8.7,
+   "known": "Gaia DR3 4782567687506667392",
+   "pm": 15.677738389193768,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 144,
+   "y": 107,
+   "from": [
+    143,
+    108
+   ],
+   "snr": 8.3,
+   "known": "Gaia DR3 4782632112016117760",
+   "pm": 11.70508650117546,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 66,
+   "y": 154,
+   "from": [
+    67,
+    154
+   ],
+   "snr": 7.7,
+   "known": "Gaia DR3 4782627473451422592",
+   "pm": 15.26041365756512,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 52,
+   "y": 136,
+   "from": [
+    52,
+    135
+   ],
+   "snr": 7.1,
+   "known": "Gaia DR3 4782627095494300160",
+   "pm": 42.959897229858456,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 51,
+   "y": 25,
+   "from": [
+    51,
+    24
+   ],
+   "snr": 6.9,
+   "known": "CWISE J041548.04-495201.9",
+   "pm": 71.79626772779848,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 57,
+   "y": 153,
+   "from": [
+    57,
+    154
+   ],
+   "snr": 6.7,
+   "known": "Gaia DR3 4782627507811160064",
+   "pm": 12.89420338756916,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "brighter",
+   "x": 153,
+   "y": 155,
+   "from": null,
+   "snr": 17.5,
+   "known": "Gaia DR3 4782639190122220032",
+   "pm": 19.43828222863327,
+   "vet": 68,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "brighter",
+   "x": 22,
+   "y": 140,
+   "from": null,
+   "snr": 12.7,
+   "known": "Gaia DR3 4782624621591956864",
+   "pm": 6.5324979142744475,
+   "vet": 80,
+   "cls": "Normal star"
+  }
+ ],
+ "wide_j070533d93p553446d5": [
+  {
+   "kind": "moved",
+   "x": 151,
+   "y": 194,
+   "from": [
+    150,
+    193
+   ],
+   "snr": 458.2,
+   "known": "Gaia DR3 988336090081422336",
+   "pm": 45.748061226679326,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 151,
+   "y": 116,
+   "from": [
+    151,
+    117
+   ],
+   "snr": 406.4,
+   "known": "Gaia DR3 988333517398395648",
+   "pm": 5.3480841429431525,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 83,
+   "y": 150,
+   "from": [
+    82,
+    150
+   ],
+   "snr": 260.4,
+   "known": "Gaia DR3 988331730691991040",
+   "pm": 5.216430292834363,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 39,
+   "y": 77,
+   "from": [
+    38,
+    77
+   ],
+   "snr": 184.2,
+   "known": "Gaia DR3 988282454530102528",
+   "pm": 1.891048386477723,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 188,
+   "y": 56,
+   "from": [
+    189,
+    55
+   ],
+   "snr": 160.6,
+   "known": "Gaia DR3 987956208814003712",
+   "pm": 9.149628680990284,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 86,
+   "y": 129,
+   "from": [
+    85,
+    130
+   ],
+   "snr": 117.1,
+   "known": "CWISE J070542.24+553755.3",
+   "pm": 207.59474735693723,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 32,
+   "y": 102,
+   "from": [
+    32,
+    103
+   ],
+   "snr": 108.4,
+   "known": "Gaia DR3 988284108094607872",
+   "pm": 1.2285731561449649,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 136,
+   "y": 101,
+   "from": [
+    135,
+    100
+   ],
+   "snr": 100.7,
+   "known": "Gaia DR3 988330459381680256",
+   "pm": 28.136752655557107,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 153,
+   "y": 2,
+   "from": [
+    154,
+    3
+   ],
+   "snr": 93.6,
+   "known": "Gaia DR3 987952330460790912",
+   "pm": 4.261200417722687,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 57,
+   "y": 174,
+   "from": [
+    56,
+    173
+   ],
+   "snr": 64.7,
+   "known": "Gaia DR3 988337881085151232",
+   "pm": 71.1007054254738,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 29,
+   "y": 182,
+   "from": [
+    29,
+    183
+   ],
+   "snr": 63,
+   "known": "Gaia DR3 988291353702338176",
+   "pm": 2.3164535393570924,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 148,
+   "y": 4,
+   "from": [
+    147,
+    5
+   ],
+   "snr": 54,
+   "known": "Gaia DR3 987952502259480192",
+   "pm": 4.5778398836132315,
+   "vet": 40,
+   "cls": "Normal star"
+  }
+ ],
+ "wide_j094344d92p081345d3": [
+  {
+   "kind": "moved",
+   "x": 13,
+   "y": 21,
+   "from": [
+    13,
+    22
+   ],
+   "snr": 88,
+   "known": "Gaia DR3 3854648107807773568",
+   "pm": 9.404665065806437,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 147,
+   "y": 163,
+   "from": [
+    147,
+    164
+   ],
+   "snr": 80.3,
+   "known": "Gaia DR3 3854843206697746304",
+   "pm": 36.07554746639335,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 166,
+   "y": 112,
+   "from": [
+    165,
+    112
+   ],
+   "snr": 72.7,
+   "known": "Gaia DR3 3854841072098602752",
+   "pm": 42.18498117813969,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 85,
+   "y": 39,
+   "from": [
+    86,
+    40
+   ],
+   "snr": 63.3,
+   "known": "Gaia DR3 3854647905944522880",
+   "pm": 73.86189613054894,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 112,
+   "y": 64,
+   "from": [
+    112,
+    63
+   ],
+   "snr": 57.4,
+   "known": "CWISE J094338.90+081026.0",
+   "pm": 512.2426034637723,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 113,
+   "y": 150,
+   "from": [
+    112,
+    150
+   ],
+   "snr": 39.9,
+   "known": "Gaia DR3 3854842519502976128",
+   "pm": 4.044007912949726,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 87,
+   "y": 89,
+   "from": [
+    86,
+    90
+   ],
+   "snr": 29.5,
+   "known": "Gaia DR3 3854838327614335360",
+   "pm": 203.02145644734205,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 66,
+   "y": 79,
+   "from": [
+    67,
+    80
+   ],
+   "snr": 26.1,
+   "known": "Gaia DR3 3854837399901958912",
+   "pm": 28.53941788123927,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 154,
+   "y": 138,
+   "from": [
+    155,
+    138
+   ],
+   "snr": 15.4,
+   "known": "Gaia DR3 3854842760021150720",
+   "pm": 5.845659073192689,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 135,
+   "y": 148,
+   "from": [
+    135,
+    147
+   ],
+   "snr": 14.4,
+   "known": "Gaia DR3 3854842931819838976",
+   "pm": 3.477186362563847,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 142,
+   "y": 49,
+   "from": [
+    142,
+    50
+   ],
+   "snr": 13.1,
+   "known": "Gaia DR3 3854836128591869696",
+   "pm": 26.525518977015324,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 139,
+   "y": 186,
+   "from": [
+    138,
+    186
+   ],
+   "snr": 10.2,
+   "known": "Gaia DR3 3854855541843817856",
+   "pm": 20.106984358674975,
+   "vet": 40,
+   "cls": "Normal star"
+  }
+ ],
+ "wide_j100001d50p094156d8": [
+  {
+   "kind": "moved",
+   "x": 91,
+   "y": 62,
+   "from": [
+    90,
+    63
+   ],
+   "snr": 576.5,
+   "known": "Gaia DR3 3878500741261896064",
+   "pm": 13.019551643585888,
+   "vet": 40,
+   "cls": "Strong IR excess (saturated star)"
+  },
+  {
+   "kind": "moved",
+   "x": 140,
+   "y": 87,
+   "from": [
+    141,
+    87
+   ],
+   "snr": 219.1,
+   "known": "Gaia DR3 3878504726991545344",
+   "pm": 27.234839177054084,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 11,
+   "y": 86,
+   "from": [
+    10,
+    86
+   ],
+   "snr": 71.4,
+   "known": "Gaia DR3 3878506238820033664",
+   "pm": 20.690014016428307,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 125,
+   "y": 55,
+   "from": [
+    126,
+    55
+   ],
+   "snr": 55.1,
+   "known": "Gaia DR3 3878503215163058816",
+   "pm": 6.0908180895508615,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 173,
+   "y": 15,
+   "from": [
+    172,
+    15
+   ],
+   "snr": 14.7,
+   "known": "Gaia DR3 3878501054794746752",
+   "pm": 8.625450307085423,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 151,
+   "y": 169,
+   "from": [
+    151,
+    171
+   ],
+   "snr": 9.7,
+   "known": "Gaia DR3 3878559358975940608",
+   "pm": 6.185253511376878,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "brighter",
+   "x": 104,
+   "y": 22,
+   "from": null,
+   "snr": 53.2,
+   "known": "CWISE J095959.59+093408.3",
+   "pm": 184.17395656489705,
+   "vet": 73,
+   "cls": "Not detected"
+  },
+  {
+   "kind": "brighter",
+   "x": 57,
+   "y": 4,
+   "from": null,
+   "snr": 26.9,
+   "known": null,
+   "pm": null,
+   "vet": 43,
+   "cls": "Not detected"
+  },
+  {
+   "kind": "brighter",
+   "x": 159,
+   "y": 99,
+   "from": null,
+   "snr": 21.9,
+   "known": "CWISE J095935.42+094155.0",
+   "pm": 149.50737524223567,
+   "vet": 65,
+   "cls": "Not detected"
+  },
+  {
+   "kind": "fainter",
+   "x": 49,
+   "y": 23,
+   "from": null,
+   "snr": 21.6,
+   "known": null,
+   "pm": null,
+   "vet": 30,
+   "cls": "Not detected"
+  },
+  {
+   "kind": "brighter",
+   "x": 33,
+   "y": 81,
+   "from": null,
+   "snr": 11.8,
+   "known": "CWISE J100027.79+094019.8",
+   "pm": 432.61061215467106,
+   "vet": 55,
+   "cls": "Not detected"
+  },
+  {
+   "kind": "brighter",
+   "x": 45,
+   "y": 44,
+   "from": null,
+   "snr": 7.7,
+   "known": "CWISE J100023.06+093618.6",
+   "pm": 445.9078013529338,
+   "vet": 75,
+   "cls": "Not detected"
+  }
+ ],
+ "wide_j132630d65p281128d1": [
+  {
+   "kind": "moved",
+   "x": 189,
+   "y": 119,
+   "from": [
+    190,
+    120
+   ],
+   "snr": 60.9,
+   "known": "Gaia DR3 1449525250215412736",
+   "pm": 3.402606794797189,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 178,
+   "y": 98,
+   "from": [
+    179,
+    99
+   ],
+   "snr": 17.6,
+   "known": "CWISE J132552.81+281127.7",
+   "pm": 579.9021341133747,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 189,
+   "y": 76,
+   "from": [
+    188,
+    77
+   ],
+   "snr": 8.9,
+   "known": "Gaia DR3 1449523669667446656",
+   "pm": 12.266341345323797,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "brighter",
+   "x": 139,
+   "y": 176,
+   "from": null,
+   "snr": 8.9,
+   "known": "Gaia DR3 1449901386271274240",
+   "pm": 14.21480035033908,
+   "vet": 60,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "brighter",
+   "x": 78,
+   "y": 130,
+   "from": null,
+   "snr": 6.9,
+   "known": "Gaia DR3 1449896266670280064",
+   "pm": 7.017012255939132,
+   "vet": 80,
+   "cls": "Unclear (noisy colours)"
+  }
+ ],
+ "wide_j165427d90p662037d9": [
+  {
+   "kind": "moved",
+   "x": 65,
+   "y": 25,
+   "from": [
+    65,
+    26
+   ],
+   "snr": 1252.8,
+   "known": "Gaia DR3 1635724074047236480",
+   "pm": 18.217987155555907,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 162,
+   "y": 55,
+   "from": [
+    163,
+    55
+   ],
+   "snr": 699.2,
+   "known": "Gaia DR3 1635727441301100160",
+   "pm": 5.91377865666276,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 118,
+   "y": 26,
+   "from": [
+    117,
+    27
+   ],
+   "snr": 543.4,
+   "known": "Gaia DR3 1635723489931204224",
+   "pm": 0.481423929608822,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 190,
+   "y": 174,
+   "from": [
+    189,
+    174
+   ],
+   "snr": 444.2,
+   "known": "Gaia DR3 1635745029190810880",
+   "pm": 4.522150484006476,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 171,
+   "y": 174,
+   "from": [
+    170,
+    175
+   ],
+   "snr": 341.3,
+   "known": "Gaia DR3 1635745377084463744",
+   "pm": 31.62391705655705,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 106,
+   "y": 128,
+   "from": [
+    105,
+    128
+   ],
+   "snr": 273.5,
+   "known": "Gaia DR3 1635741563153529856",
+   "pm": 1.506963171414617,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 97,
+   "y": 97,
+   "from": [
+    97,
+    98
+   ],
+   "snr": 254.8,
+   "known": "CWISE J165427.90+662037.9",
+   "pm": 617.9912528878887,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 31,
+   "y": 151,
+   "from": [
+    32,
+    151
+   ],
+   "snr": 118.8,
+   "known": "Gaia DR3 1635735859436941824",
+   "pm": 88.15922259185366,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 38,
+   "y": 43,
+   "from": [
+    39,
+    43
+   ],
+   "snr": 117.9,
+   "known": "Gaia DR3 1635724314564926464",
+   "pm": 104.60718583825874,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 162,
+   "y": 186,
+   "from": [
+    161,
+    186
+   ],
+   "snr": 112.2,
+   "known": "Gaia DR3 1635745411444192512",
+   "pm": 3.3116831068204577,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 13,
+   "y": 54,
+   "from": [
+    13,
+    53
+   ],
+   "snr": 97.3,
+   "known": "Gaia DR3 1635730258799657344",
+   "pm": 67.49337226720858,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 174,
+   "y": 65,
+   "from": [
+    174,
+    66
+   ],
+   "snr": 87.4,
+   "known": "Gaia DR3 1635739157971875968",
+   "pm": 12.220866458643592,
+   "vet": 40,
+   "cls": "Normal star"
+  }
+ ],
+ "wide_rdra": [
+  {
+   "kind": "moved",
+   "x": 69,
+   "y": 5,
+   "from": [
+    69,
+    6
+   ],
+   "snr": 569.9,
+   "known": "Gaia DR3 1636312823866864256",
+   "pm": 1.7964860144181474,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 47,
+   "y": 84,
+   "from": [
+    47,
+    87
+   ],
+   "snr": 372.9,
+   "known": "CWISE J163332.13+664408.2",
+   "pm": 88.40898521767583,
+   "vet": 33,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 95,
+   "y": 93,
+   "from": [
+    96,
+    92
+   ],
+   "snr": 115.9,
+   "known": null,
+   "pm": null,
+   "vet": 25,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 99,
+   "y": 103,
+   "from": [
+    98,
+    104
+   ],
+   "snr": 110.5,
+   "known": null,
+   "pm": null,
+   "vet": 13,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 134,
+   "y": 116,
+   "from": [
+    134,
+    117
+   ],
+   "snr": 30.2,
+   "known": "Gaia DR3 1648331074370509952",
+   "pm": 6.61754675087377,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 94,
+   "y": 101,
+   "from": [
+    95,
+    103
+   ],
+   "snr": 18.2,
+   "known": "Gaia DR3 1648328119433021184",
+   "pm": 4.736563416655582,
+   "vet": 20,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 117,
+   "y": 183,
+   "from": [
+    116,
+    183
+   ],
+   "snr": 13.9,
+   "known": "Gaia DR3 1648344543387956864",
+   "pm": 1.9470811487968342,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 100,
+   "y": 94,
+   "from": [
+    103,
+    94
+   ],
+   "snr": 13.5,
+   "known": null,
+   "pm": null,
+   "vet": 13,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 103,
+   "y": 98,
+   "from": [
+    103,
+    100
+   ],
+   "snr": 9.6,
+   "known": null,
+   "pm": null,
+   "vet": 13,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 148,
+   "y": 120,
+   "from": [
+    147,
+    120
+   ],
+   "snr": 8.7,
+   "known": "Gaia DR3 1648331795925012480",
+   "pm": 20.32496986467631,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 55,
+   "y": 104,
+   "from": [
+    57,
+    106
+   ],
+   "snr": 7.4,
+   "known": "Gaia DR3 1648328566109635328",
+   "pm": 9.175855491451465,
+   "vet": 40,
+   "cls": "Not detected"
+  },
+  {
+   "kind": "moved",
+   "x": 170,
+   "y": 135,
+   "from": [
+    169,
+    135
+   ],
+   "snr": 7,
+   "known": "CWISE J163125.18+664908.8",
+   "pm": 237.79604096826475,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  }
+ ],
+ "wide_rwaur": [
+  {
+   "kind": "moved",
+   "x": 147,
+   "y": 31,
+   "from": [
+    146,
+    30
+   ],
+   "snr": 322.8,
+   "known": "Gaia DR3 156334026436882048",
+   "pm": 3.675019591784512,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 88,
+   "y": 83,
+   "from": [
+    87,
+    82
+   ],
+   "snr": 266.5,
+   "known": "Gaia DR3 156429997483589120",
+   "pm": 17.30793589657646,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 65,
+   "y": 46,
+   "from": [
+    64,
+    45
+   ],
+   "snr": 266.3,
+   "known": "Gaia DR3 156288671582235648",
+   "pm": 40.807962764637,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 124,
+   "y": 23,
+   "from": [
+    123,
+    22
+   ],
+   "snr": 217.4,
+   "known": "Gaia DR3 156335164604095360",
+   "pm": 5.982172264320044,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 179,
+   "y": 150,
+   "from": [
+    179,
+    149
+   ],
+   "snr": 110.1,
+   "known": "Gaia DR3 156341585578183296",
+   "pm": 5.577539600935165,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 169,
+   "y": 84,
+   "from": [
+    168,
+    85
+   ],
+   "snr": 107.4,
+   "known": "Gaia DR3 156339665729807616",
+   "pm": 1.2064348303990566,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 30,
+   "y": 109,
+   "from": [
+    29,
+    109
+   ],
+   "snr": 107,
+   "known": "Gaia DR3 156384917505820416",
+   "pm": 6.920505256121116,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 96,
+   "y": 49,
+   "from": [
+    95,
+    48
+   ],
+   "snr": 102.3,
+   "known": "Gaia DR3 156335744423799680",
+   "pm": 6.918334192563987,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 31,
+   "y": 88,
+   "from": [
+    31,
+    89
+   ],
+   "snr": 90.5,
+   "known": "Gaia DR3 156383199518911744",
+   "pm": 12.20815239911429,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 101,
+   "y": 16,
+   "from": [
+    101,
+    15
+   ],
+   "snr": 88.5,
+   "known": "Gaia DR3 156288297920954368",
+   "pm": 1.9832745649556442,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 85,
+   "y": 63,
+   "from": [
+    86,
+    62
+   ],
+   "snr": 85.7,
+   "known": "Gaia DR3 156335881862752768",
+   "pm": 9.22026084229725,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  },
+  {
+   "kind": "moved",
+   "x": 112,
+   "y": 102,
+   "from": [
+    110,
+    103
+   ],
+   "snr": 83.6,
+   "known": "Gaia DR3 156430886538071552",
+   "pm": 0.9141974622585649,
+   "vet": 40,
+   "cls": "Unclear (noisy colours)"
+  }
+ ],
+ "wide_wise0855": [
+  {
+   "kind": "moved",
+   "x": 160,
+   "y": 23,
+   "from": [
+    161,
+    23
+   ],
+   "snr": 924.2,
+   "known": "Gaia DR3 5756860711998380288",
+   "pm": 4.552232419374037,
+   "vet": 20,
+   "cls": "Too bright (saturated)"
+  },
+  {
+   "kind": "moved",
+   "x": 107,
+   "y": 17,
+   "from": [
+    106,
+    18
+   ],
+   "snr": 372.5,
+   "known": "Gaia DR3 5756849094111431424",
+   "pm": 2.001166909580508,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 34,
+   "y": 31,
+   "from": [
+    35,
+    31
+   ],
+   "snr": 257.4,
+   "known": "Gaia DR3 5756942174642001280",
+   "pm": 1.4722010732233557,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 22,
+   "y": 61,
+   "from": [
+    22,
+    62
+   ],
+   "snr": 174.9,
+   "known": "Gaia DR3 5756942763053632640",
+   "pm": 0.7696966935098526,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 174,
+   "y": 70,
+   "from": [
+    172,
+    70
+   ],
+   "snr": 106.2,
+   "known": "Gaia DR3 5756864938246197376",
+   "pm": 9.55626747218808,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 73,
+   "y": 9,
+   "from": [
+    72,
+    8
+   ],
+   "snr": 96.3,
+   "known": "Gaia DR3 5756848205053677184",
+   "pm": 3.696888015615296,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 128,
+   "y": 89,
+   "from": [
+    127,
+    88
+   ],
+   "snr": 95.6,
+   "known": "Gaia DR3 5756956330854206592",
+   "pm": 9.153602132494072,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 65,
+   "y": 168,
+   "from": [
+    64,
+    168
+   ],
+   "snr": 92.7,
+   "known": "Gaia DR3 5756962176305318528",
+   "pm": 13.610677022102905,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 172,
+   "y": 128,
+   "from": [
+    171,
+    128
+   ],
+   "snr": 91.8,
+   "known": "Gaia DR3 5756960522742285696",
+   "pm": 6.363166507329507,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 10,
+   "y": 97,
+   "from": [
+    11,
+    97
+   ],
+   "snr": 76.8,
+   "known": "Gaia DR3 5756945473176881792",
+   "pm": 41.57604123771286,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 162,
+   "y": 43,
+   "from": [
+    162,
+    44
+   ],
+   "snr": 66.2,
+   "known": "Gaia DR3 5756861674071053312",
+   "pm": 25.823643894694644,
+   "vet": 40,
+   "cls": "Normal star"
+  },
+  {
+   "kind": "moved",
+   "x": 26,
+   "y": 97,
+   "from": [
+    26,
+    98
+   ],
+   "snr": 58.5,
+   "known": "Gaia DR3 5756945404457404800",
+   "pm": 28.42980979535389,
+   "vet": 40,
+   "cls": "Normal star"
+  }
+ ]
+}

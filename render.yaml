@@ -1,0 +1,23 @@
+# Render Blueprint: one free web service running the Wanderer scan server.
+# Render dashboard → New → Blueprint → pick this repo. Then copy the service URL into web/config.js.
+services:
+  - type: web
+    name: wanderer-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: WANDERER_MAX_FRAMES
+        value: "120"
+      - key: WANDERER_MAX_FOV   # 20' needs ~420 MB while building; the free plan has 512 MB
+        value: "10"
+      - key: WANDERER_RATE
+        value: "3"
+      - key: WANDERER_CACHE_MB
+        value: "400"
+      - key: WANDERER_ORIGINS
+        value: "*"

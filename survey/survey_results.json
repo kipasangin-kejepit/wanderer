@@ -1,0 +1,1768 @@
+[
+ {
+  "name": "CWISE J004602.84+233718.1",
+  "group": "still",
+  "w1": 14.947999954223633,
+  "w2": 13.177000045776367,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.39,
+    0.1
+   ],
+   "KL": [
+    1.71,
+    0.09
+   ],
+   "KM": [
+    2.59,
+    0.09
+   ],
+   "CM": [
+    1.53,
+    0.1
+   ],
+   "LM": [
+    0.86,
+    0.1
+   ],
+   "h2o": [
+    -0.15,
+    0.24
+   ],
+   "co2": [
+    0.17,
+    0.12
+   ],
+   "ch4depth": [
+    0.2,
+    0.06
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j004602d84p233718d1"
+ },
+ {
+  "name": "CWISE J005504.98+253506.3",
+  "group": "still",
+  "w1": 14.737000465393066,
+  "w2": 13.232999801635742,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    4.36,
+    12.36
+   ],
+   "KL": [
+    2.95,
+    0.25
+   ],
+   "KM": [
+    3.81,
+    0.26
+   ],
+   "CM": [
+    1.6,
+    0.1
+   ],
+   "LM": [
+    0.84,
+    0.12
+   ],
+   "h2o": [
+    0.5,
+    2.88
+   ],
+   "co2": [
+    0.13,
+    0.19
+   ],
+   "ch4depth": [
+    -0.02,
+    0.09
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j005504d98p253506d3"
+ },
+ {
+  "name": "CWISE J021414.62-184548.6",
+  "group": "still",
+  "w1": 14.123000144958496,
+  "w2": 12.428000450134277,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.93,
+    0.22
+   ],
+   "KL": [
+    1.77,
+    0.12
+   ],
+   "KM": [
+    2.8,
+    0.14
+   ],
+   "CM": [
+    1.91,
+    0.27
+   ],
+   "LM": [
+    1.01,
+    0.09
+   ],
+   "h2o": [
+    0.04,
+    0.1
+   ],
+   "co2": [
+    -0.22,
+    0.13
+   ],
+   "ch4depth": [
+    0.34,
+    0.16
+   ]
+  },
+  "nframes": 150,
+  "zpN": 0,
+  "slug": "survey_j021414d62m184548d6"
+ },
+ {
+  "name": "CWISE J034546.76-414911.0",
+  "group": "still",
+  "w1": 15.329999923706055,
+  "w2": 13.140999794006348,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1.14,
+    0.57
+   ],
+   "KL": [
+    2.24,
+    0.29
+   ],
+   "KM": [
+    3.46,
+    0.29
+   ],
+   "CM": [
+    1.93,
+    0.13
+   ],
+   "LM": [
+    1.2,
+    0.15
+   ],
+   "h2o": [
+    0,
+    0.3
+   ],
+   "co2": [
+    0.06,
+    0.17
+   ],
+   "ch4depth": [
+    0.13,
+    0.1
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j034546d76m414911d0"
+ },
+ {
+  "name": "CWISE J041507.40-452150.9",
+  "group": "still",
+  "w1": 14.626999855041504,
+  "w2": 13.067000389099121,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1.62,
+    0.5
+   ],
+   "KL": [
+    2.39,
+    0.11
+   ],
+   "KM": [
+    3.25,
+    0.11
+   ],
+   "CM": [
+    1.48,
+    0.06
+   ],
+   "LM": [
+    0.84,
+    0.07
+   ],
+   "h2o": [
+    0.03,
+    0.26
+   ],
+   "co2": [
+    0.03,
+    0.09
+   ],
+   "ch4depth": [
+    0.01,
+    0.06
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j041507d40m452150d9"
+ },
+ {
+  "name": "CWISE J041518.20-494437.7",
+  "group": "still",
+  "w1": 14.588000297546387,
+  "w2": 13.041000366210938,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.86,
+    0.27
+   ],
+   "KL": [
+    1.98,
+    0.09
+   ],
+   "KM": [
+    2.84,
+    0.08
+   ],
+   "CM": [
+    1.44,
+    0.08
+   ],
+   "LM": [
+    0.84,
+    0.08
+   ],
+   "h2o": [
+    -0.04,
+    0.19
+   ],
+   "co2": [
+    -0.01,
+    0.07
+   ],
+   "ch4depth": [
+    0.08,
+    0.07
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j041518d20m494437d7"
+ },
+ {
+  "name": "CWISE J042704.40-414123.2",
+  "group": "still",
+  "w1": 15.52400016784668,
+  "w2": 13.180999755859375,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.29,
+    0.12
+   ],
+   "KL": [
+    1.74,
+    0.15
+   ],
+   "KM": [
+    3.06,
+    0.11
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    1.3,
+    0.13
+   ],
+   "h2o": [
+    0.14,
+    0.13
+   ],
+   "co2": [
+    0.08,
+    0.1
+   ],
+   "ch4depth": [
+    null,
+    null
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j042704d40m414123d2"
+ },
+ {
+  "name": "CWISE J060958.76+605310.6",
+  "group": "still",
+  "w1": 15.67199993133545,
+  "w2": 13.21399974822998,
+  "short": "Unclear (noisy colours)",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    null,
+    null
+   ],
+   "KM": [
+    null,
+    null
+   ],
+   "CM": [
+    2.6,
+    0.76
+   ],
+   "LM": [
+    1.49,
+    0.11
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    -0.03,
+    0.03
+   ],
+   "ch4depth": [
+    null,
+    null
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j060958d76p605310d6"
+ },
+ {
+  "name": "CWISE J061145.52+695038.9",
+  "group": "moving",
+  "w1": 12.815999984741211,
+  "w2": 11.086000442504883,
+  "short": "Too bright (saturated)",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "wing",
+  "col": {
+   "JK": [
+    0.05,
+    0.17
+   ],
+   "KL": [
+    0.47,
+    0.16
+   ],
+   "KM": [
+    0.7,
+    0.16
+   ],
+   "CM": [
+    0.01,
+    0.07
+   ],
+   "LM": [
+    0.21,
+    0.07
+   ],
+   "h2o": [
+    -0.02,
+    0.08
+   ],
+   "co2": [
+    -0.01,
+    0.01
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j061145d52p695038d9"
+ },
+ {
+  "name": "CWISE J063147.40+570730.2",
+  "group": "still",
+  "w1": 14.82699966430664,
+  "w2": 13.222999572753906,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.48,
+    0.39
+   ],
+   "KL": [
+    2.27,
+    0.26
+   ],
+   "KM": [
+    3.26,
+    0.25
+   ],
+   "CM": [
+    1.54,
+    0.16
+   ],
+   "LM": [
+    0.98,
+    0.07
+   ],
+   "h2o": [
+    0.65,
+    0.24
+   ],
+   "co2": [
+    -0.03,
+    0.04
+   ],
+   "ch4depth": [
+    -0.03,
+    0.17
+   ]
+  },
+  "nframes": 179,
+  "zpN": 0,
+  "slug": "survey_j063147d40p570730d2"
+ },
+ {
+  "name": "CWISE J070533.93+553446.5",
+  "group": "still",
+  "w1": 14.744999885559082,
+  "w2": 13.211000442504883,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    3.72,
+    6.38
+   ],
+   "KL": [
+    2.53,
+    0.2
+   ],
+   "KM": [
+    3.28,
+    0.17
+   ],
+   "CM": [
+    1.39,
+    0.1
+   ],
+   "LM": [
+    0.73,
+    0.11
+   ],
+   "h2o": [
+    -2.54,
+    10.48
+   ],
+   "co2": [
+    0.19,
+    0.2
+   ],
+   "ch4depth": [
+    0,
+    0.12
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j070533d93p553446d5"
+ },
+ {
+  "name": "CWISE J070748.03+590304.2",
+  "group": "still",
+  "w1": 14.383999824523926,
+  "w2": 12.880999565124512,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.85,
+    0.19
+   ],
+   "KL": [
+    2,
+    0.09
+   ],
+   "KM": [
+    2.74,
+    0.09
+   ],
+   "CM": [
+    1.39,
+    0.06
+   ],
+   "LM": [
+    0.72,
+    0.08
+   ],
+   "h2o": [
+    -0.69,
+    0.4
+   ],
+   "co2": [
+    -0.13,
+    0.06
+   ],
+   "ch4depth": [
+    0.14,
+    0.05
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j070748d03p590304d2"
+ },
+ {
+  "name": "CWISE J071642.30+631117.2",
+  "group": "still",
+  "w1": 14.607999801635742,
+  "w2": 13.029000282287598,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1.7,
+    1.01
+   ],
+   "KL": [
+    2.4,
+    0.09
+   ],
+   "KM": [
+    3.21,
+    0.11
+   ],
+   "CM": [
+    1.42,
+    0.09
+   ],
+   "LM": [
+    0.79,
+    0.09
+   ],
+   "h2o": [
+    0.2,
+    0.46
+   ],
+   "co2": [
+    -0.09,
+    0.04
+   ],
+   "ch4depth": [
+    0.01,
+    0.05
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j071642d30p631117d2"
+ },
+ {
+  "name": "CWISE J071659.79+602342.3",
+  "group": "still",
+  "w1": 14.82699966430664,
+  "w2": 13.262999534606934,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    2.7,
+    0.44
+   ],
+   "KM": [
+    3.44,
+    0.44
+   ],
+   "CM": [
+    1.59,
+    0.07
+   ],
+   "LM": [
+    0.72,
+    0.09
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    0.02,
+    0.09
+   ],
+   "ch4depth": [
+    0.14,
+    0.11
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j071659d79p602342d3"
+ },
+ {
+  "name": "CWISE J071911.15+574058.1",
+  "group": "still",
+  "w1": 14.630000114440918,
+  "w2": 12.520000457763672,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.35,
+    0.29
+   ],
+   "KL": [
+    2.64,
+    0.08
+   ],
+   "KM": [
+    3.86,
+    0.11
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    1.2,
+    0.09
+   ],
+   "h2o": [
+    -0.03,
+    0.2
+   ],
+   "co2": [
+    0.02,
+    0.09
+   ],
+   "ch4depth": [
+    null,
+    null
+   ]
+  },
+  "nframes": 143,
+  "zpN": 0,
+  "slug": "survey_j071911d15p574058d1"
+ },
+ {
+  "name": "CWISE J094344.92+081345.3",
+  "group": "still",
+  "w1": 14.836000442504883,
+  "w2": 13.260000228881836,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    2.53,
+    7.46
+   ],
+   "KL": [
+    3.2,
+    0.6
+   ],
+   "KM": [
+    4.09,
+    0.6
+   ],
+   "CM": [
+    1.81,
+    0.09
+   ],
+   "LM": [
+    0.87,
+    0.11
+   ],
+   "h2o": [
+    0.28,
+    2.87
+   ],
+   "co2": [
+    0.01,
+    0.1
+   ],
+   "ch4depth": [
+    0.08,
+    0.17
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j094344d92p081345d3"
+ },
+ {
+  "name": "CWISE J094646.92+051340.8",
+  "group": "still",
+  "w1": 14.83899974822998,
+  "w2": 13.144000053405762,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1.14,
+    3.37
+   ],
+   "KL": [
+    3.6,
+    0.59
+   ],
+   "KM": [
+    4.62,
+    0.58
+   ],
+   "CM": [
+    1.73,
+    0.09
+   ],
+   "LM": [
+    1,
+    0.09
+   ],
+   "h2o": [
+    -6.11,
+    41.29
+   ],
+   "co2": [
+    0.11,
+    0.06
+   ],
+   "ch4depth": [
+    -0.25,
+    0.22
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j094646d92p051340d8"
+ },
+ {
+  "name": "CWISE J094859.00+092428.2",
+  "group": "still",
+  "w1": 14.378000259399414,
+  "w2": 12.82800006866455,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.26,
+    0.18
+   ],
+   "KL": [
+    2.26,
+    0.09
+   ],
+   "KM": [
+    3.11,
+    0.12
+   ],
+   "CM": [
+    1.53,
+    0.1
+   ],
+   "LM": [
+    0.83,
+    0.1
+   ],
+   "h2o": [
+    0.34,
+    0.13
+   ],
+   "co2": [
+    -0.12,
+    0.06
+   ],
+   "ch4depth": [
+    0.1,
+    0.05
+   ]
+  },
+  "nframes": 177,
+  "zpN": 0,
+  "slug": "survey_j094859d00p092428d2"
+ },
+ {
+  "name": "CWISE J095423.47+065722.1",
+  "group": "still",
+  "w1": 14.281000137329102,
+  "w2": 12.736000061035156,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1.38,
+    0.96
+   ],
+   "KL": [
+    3.15,
+    0.07
+   ],
+   "KM": [
+    4.08,
+    0.06
+   ],
+   "CM": [
+    1.81,
+    0.12
+   ],
+   "LM": [
+    0.91,
+    0.06
+   ],
+   "h2o": [
+    0.45,
+    0.34
+   ],
+   "co2": [
+    -0.09,
+    0.04
+   ],
+   "ch4depth": [
+    0.06,
+    0.11
+   ]
+  },
+  "nframes": 145,
+  "zpN": 0,
+  "slug": "survey_j095423d47p065722d1"
+ },
+ {
+  "name": "CWISE J095855.54+105906.7",
+  "group": "still",
+  "w1": 14.666000366210938,
+  "w2": 13.154000282287598,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.95,
+    0.72
+   ],
+   "KL": [
+    2.94,
+    0.14
+   ],
+   "KM": [
+    3.69,
+    0.12
+   ],
+   "CM": [
+    1.46,
+    0.09
+   ],
+   "LM": [
+    0.73,
+    0.09
+   ],
+   "h2o": [
+    0.82,
+    0.21
+   ],
+   "co2": [
+    -0.1,
+    0.09
+   ],
+   "ch4depth": [
+    -0.04,
+    0.1
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j095855d54p105906d7"
+ },
+ {
+  "name": "CWISE J100001.50+094156.8",
+  "group": "still",
+  "w1": 14.640000343322754,
+  "w2": 13.116000175476074,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    2.95,
+    0.18
+   ],
+   "KM": [
+    3.82,
+    0.17
+   ],
+   "CM": [
+    1.56,
+    0.05
+   ],
+   "LM": [
+    0.85,
+    0.1
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    0.09,
+    0.13
+   ],
+   "ch4depth": [
+    -0.07,
+    0.08
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j100001d50p094156d8"
+ },
+ {
+  "name": "CWISE J100328.81+140631.5",
+  "group": "still",
+  "w1": 14.593000411987305,
+  "w2": 13.081000328063965,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.25,
+    0.07
+   ],
+   "KL": [
+    1.59,
+    0.08
+   ],
+   "KM": [
+    2.5,
+    0.09
+   ],
+   "CM": [
+    1.28,
+    0.12
+   ],
+   "LM": [
+    0.89,
+    0.06
+   ],
+   "h2o": [
+    -0.14,
+    0.2
+   ],
+   "co2": [
+    0.04,
+    0.05
+   ],
+   "ch4depth": [
+    0,
+    0.1
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j100328d81p140631d5"
+ },
+ {
+  "name": "CWISE J100830.12+094253.1",
+  "group": "still",
+  "w1": 14.77400016784668,
+  "w2": 13.27299976348877,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.04,
+    0.47
+   ],
+   "KL": [
+    1.87,
+    0.2
+   ],
+   "KM": [
+    3.05,
+    0.1
+   ],
+   "CM": [
+    1.71,
+    0.1
+   ],
+   "LM": [
+    1.15,
+    0.2
+   ],
+   "h2o": [
+    0.46,
+    0.18
+   ],
+   "co2": [
+    -0.01,
+    0.07
+   ],
+   "ch4depth": [
+    0.08,
+    0.13
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j100830d12p094253d1"
+ },
+ {
+  "name": "CWISE J131112.20+245233.4",
+  "group": "still",
+  "w1": 14.76099967956543,
+  "w2": 13.256999969482422,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.36,
+    0.27
+   ],
+   "KL": [
+    2.61,
+    0.18
+   ],
+   "KM": [
+    3.39,
+    0.18
+   ],
+   "CM": [
+    1.46,
+    0.08
+   ],
+   "LM": [
+    0.75,
+    0.06
+   ],
+   "h2o": [
+    -0.17,
+    0.15
+   ],
+   "co2": [
+    0.22,
+    0.19
+   ],
+   "ch4depth": [
+    0.02,
+    0.07
+   ]
+  },
+  "nframes": 178,
+  "zpN": 0,
+  "slug": "survey_j131112d20p245233d4"
+ },
+ {
+  "name": "CWISE J131236.24+330633.9",
+  "group": "still",
+  "w1": 14.95199966430664,
+  "w2": 12.909000396728516,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    3.65,
+    1.05
+   ],
+   "KL": [
+    3.52,
+    0.21
+   ],
+   "KM": [
+    4.71,
+    0.21
+   ],
+   "CM": [
+    2.1,
+    0.22
+   ],
+   "LM": [
+    1.17,
+    0.08
+   ],
+   "h2o": [
+    -0.99,
+    4.93
+   ],
+   "co2": [
+    0.09,
+    0.1
+   ],
+   "ch4depth": [
+    -0.01,
+    0.22
+   ]
+  },
+  "nframes": 177,
+  "zpN": 0,
+  "slug": "survey_j131236d24p330633d9"
+ },
+ {
+  "name": "CWISE J132630.65+281128.1",
+  "group": "still",
+  "w1": 15.098999977111816,
+  "w2": 13.208000183105469,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1,
+    1.52
+   ],
+   "KL": [
+    3.57,
+    0.54
+   ],
+   "KM": [
+    4.57,
+    0.54
+   ],
+   "CM": [
+    1.95,
+    0.13
+   ],
+   "LM": [
+    0.98,
+    0.08
+   ],
+   "h2o": [
+    -2.5,
+    4.86
+   ],
+   "co2": [
+    -0.08,
+    0.04
+   ],
+   "ch4depth": [
+    0.01,
+    0.18
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j132630d65p281128d1"
+ },
+ {
+  "name": "CWISE J132813.16+312308.5",
+  "group": "still",
+  "w1": 14.836000442504883,
+  "w2": 13.149999618530273,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    2.11,
+    1.89
+   ],
+   "KL": [
+    3.06,
+    0.29
+   ],
+   "KM": [
+    4.04,
+    0.3
+   ],
+   "CM": [
+    1.65,
+    0.28
+   ],
+   "LM": [
+    0.96,
+    0.11
+   ],
+   "h2o": [
+    -1.59,
+    2.59
+   ],
+   "co2": [
+    0.18,
+    0.06
+   ],
+   "ch4depth": [
+    -0.12,
+    0.28
+   ]
+  },
+  "nframes": 179,
+  "zpN": 0,
+  "slug": "survey_j132813d16p312308d5"
+ },
+ {
+  "name": "CWISE J133232.50+262035.6",
+  "group": "still",
+  "w1": 14.942999839782715,
+  "w2": 13.131999969482422,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    3.49,
+    0.54
+   ],
+   "KM": [
+    4.48,
+    0.54
+   ],
+   "CM": [
+    1.95,
+    0.13
+   ],
+   "LM": [
+    0.97,
+    0.11
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    0.09,
+    0.11
+   ],
+   "ch4depth": [
+    0.04,
+    0.17
+   ]
+  },
+  "nframes": 179,
+  "zpN": 0,
+  "slug": "survey_j133232d50p262035d6"
+ },
+ {
+  "name": "CWISE J162739.84+635852.5",
+  "group": "moving",
+  "w1": 17.96299934387207,
+  "w2": 13.968000411987305,
+  "short": "Not detected",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    null,
+    null
+   ],
+   "KM": [
+    null,
+    null
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    null,
+    null
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    0.18,
+    0.07
+   ]
+  },
+  "nframes": 152,
+  "zpN": 0,
+  "slug": "survey_j162739d84p635852d5"
+ },
+ {
+  "name": "CWISE J163647.51+605423.9",
+  "group": "still",
+  "w1": 14.47599983215332,
+  "w2": 12.86299991607666,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    1.11,
+    0.27
+   ],
+   "KL": [
+    2.56,
+    0.06
+   ],
+   "KM": [
+    3.44,
+    0.07
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    0.86,
+    0.06
+   ],
+   "h2o": [
+    -2.14,
+    1.15
+   ],
+   "co2": [
+    0.01,
+    0.09
+   ],
+   "ch4depth": [
+    null,
+    null
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j163647d51p605423d9"
+ },
+ {
+  "name": "CWISE J165427.90+662037.9",
+  "group": "moving",
+  "w1": 16.091999053955078,
+  "w2": 13.965999603271484,
+  "short": "Normal star",
+  "family": "star",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    -0.44,
+    0.03
+   ],
+   "KL": [
+    -0.02,
+    0.04
+   ],
+   "KM": [
+    0.1,
+    0.04
+   ],
+   "CM": [
+    0.07,
+    0.05
+   ],
+   "LM": [
+    0.1,
+    0.04
+   ],
+   "h2o": [
+    -0.03,
+    0.02
+   ],
+   "co2": [
+    0.64,
+    0.68
+   ],
+   "ch4depth": [
+    0.03,
+    0.04
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j165427d90p662037d9"
+ },
+ {
+  "name": "CWISE J172817.04+644010.8",
+  "group": "moving",
+  "w1": 16.090999603271484,
+  "w2": 13.621999740600586,
+  "short": "Unclear (noisy colours)",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.15,
+    0.13
+   ],
+   "KL": [
+    -0.34,
+    0.29
+   ],
+   "KM": [
+    0.37,
+    0.43
+   ],
+   "CM": [
+    0.45,
+    0.44
+   ],
+   "LM": [
+    0.7,
+    0.5
+   ],
+   "h2o": [
+    0.12,
+    0.11
+   ],
+   "co2": [
+    -0.01,
+    0.06
+   ],
+   "ch4depth": [
+    -0.08,
+    0.25
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j172817d04p644010d8"
+ },
+ {
+  "name": "CWISE J173131.55+623158.7",
+  "group": "moving",
+  "w1": 18.558000564575195,
+  "w2": 13.402000427246094,
+  "short": "Not detected",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    null,
+    null
+   ],
+   "KM": [
+    null,
+    null
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    null,
+    null
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    -0.01,
+    0.11
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j173131d55p623158d7"
+ },
+ {
+  "name": "CWISE J173610.35+671424.1",
+  "group": "moving",
+  "w1": 17.834999084472656,
+  "w2": 13.496000289916992,
+  "short": "Cold brown dwarf",
+  "family": "brown-dwarf",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    null,
+    null
+   ],
+   "KM": [
+    2.93,
+    0.87
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    null,
+    null
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    -0.07,
+    0.06
+   ],
+   "ch4depth": [
+    null,
+    null
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j173610d35p671424d1"
+ },
+ {
+  "name": "CWISE J175531.58+641139.9",
+  "group": "moving",
+  "w1": 16.874000549316406,
+  "w2": 12.73799991607666,
+  "short": "Not detected",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    null,
+    null
+   ],
+   "KM": [
+    null,
+    null
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    null,
+    null
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    -0.07,
+    0.05
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j175531d58p641139d9"
+ },
+ {
+  "name": "CWISE J182953.43+570039.0",
+  "group": "moving",
+  "w1": 19.32200050354004,
+  "w2": 13.817999839782715,
+  "short": "Not detected",
+  "family": "unknown",
+  "conf": "none",
+  "mode": "core",
+  "col": {
+   "JK": [
+    null,
+    null
+   ],
+   "KL": [
+    null,
+    null
+   ],
+   "KM": [
+    null,
+    null
+   ],
+   "CM": [
+    null,
+    null
+   ],
+   "LM": [
+    null,
+    null
+   ],
+   "h2o": [
+    null,
+    null
+   ],
+   "co2": [
+    -0.08,
+    0.1
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j182953d43p570039d0"
+ },
+ {
+  "name": "CWISE J220058.00-285522.9",
+  "group": "still",
+  "w1": 14.711000442504883,
+  "w2": 13.086999893188477,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.49,
+    0.83
+   ],
+   "KL": [
+    3.12,
+    0.51
+   ],
+   "KM": [
+    4.22,
+    0.49
+   ],
+   "CM": [
+    1.8,
+    0.22
+   ],
+   "LM": [
+    1.08,
+    0.14
+   ],
+   "h2o": [
+    -1.05,
+    1.11
+   ],
+   "co2": [
+    -0.13,
+    0.16
+   ],
+   "ch4depth": [
+    -0.11,
+    0.29
+   ]
+  },
+  "nframes": 180,
+  "zpN": 0,
+  "slug": "survey_j220058d00m285522d9"
+ },
+ {
+  "name": "CWISE J220458.40-273022.0",
+  "group": "still",
+  "w1": 15.08899974822998,
+  "w2": 13.119999885559082,
+  "short": "Dusty active galaxy (likely)",
+  "family": "galaxy",
+  "conf": "medium",
+  "mode": "core",
+  "col": {
+   "JK": [
+    0.54,
+    0.39
+   ],
+   "KL": [
+    2.29,
+    0.15
+   ],
+   "KM": [
+    3.38,
+    0.16
+   ],
+   "CM": [
+    1.59,
+    0.24
+   ],
+   "LM": [
+    1.07,
+    0.08
+   ],
+   "h2o": [
+    0.07,
+    0.18
+   ],
+   "co2": [
+    -0.09,
+    0.07
+   ],
+   "ch4depth": [
+    -0.07,
+    0.23
+   ]
+  },
+  "nframes": 178,
+  "zpN": 0,
+  "slug": "survey_j220458d40m273022d0"
+ }
+]
