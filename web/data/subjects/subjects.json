@@ -1,0 +1,1223 @@
+{
+ "subjects": [
+  {
+   "id": "r001",
+   "type": "real",
+   "slug": "barnard",
+   "target": "Barnard's Star",
+   "x": 29,
+   "y": 31,
+   "ra": 269.446275,
+   "dec": 4.77162,
+   "auto": "moved",
+   "known": "Gaia DR3 4472832130942575872",
+   "vet": 53,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-08-15",
+    "2026-03-11"
+   ]
+  },
+  {
+   "id": "r002",
+   "type": "real",
+   "slug": "epsindib",
+   "target": "Epsilon Indi B",
+   "x": 45,
+   "y": 21,
+   "ra": 331.030812,
+   "dec": -56.805723,
+   "auto": "fainter",
+   "known": "Gaia DR3 6412594702180894336",
+   "vet": 80,
+   "cls": "Unclear (noisy colours)",
+   "dates": [
+    "2025-04-24",
+    "2026-04-18"
+   ]
+  },
+  {
+   "id": "r003",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 11,
+   "y": 11,
+   "ra": 248.184689,
+   "dec": 66.748111,
+   "auto": "moved",
+   "known": null,
+   "vet": 13,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r004",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 18,
+   "y": 10,
+   "ra": 248.154389,
+   "dec": 66.746402,
+   "auto": "moved",
+   "known": null,
+   "vet": 13,
+   "cls": "Strong IR excess (saturated star)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r005",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 13,
+   "y": 20,
+   "ra": 248.176032,
+   "dec": 66.763486,
+   "auto": "fainter",
+   "known": null,
+   "vet": 40,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r006",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 20,
+   "y": 17,
+   "ra": 248.145732,
+   "dec": 66.758361,
+   "auto": "fainter",
+   "known": null,
+   "vet": 40,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r007",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 15,
+   "y": 11,
+   "ra": 248.167375,
+   "dec": 66.748111,
+   "auto": "fainter",
+   "known": null,
+   "vet": 33,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r008",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 17,
+   "y": 20,
+   "ra": 248.158718,
+   "dec": 66.763486,
+   "auto": "fainter",
+   "known": null,
+   "vet": 40,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r009",
+   "type": "real",
+   "slug": "rdra",
+   "target": "R Draconis",
+   "x": 11,
+   "y": 16,
+   "ra": 248.184689,
+   "dec": 66.756652,
+   "auto": "fainter",
+   "known": null,
+   "vet": 40,
+   "cls": "Too bright (saturated)",
+   "dates": [
+    "2025-05-16",
+    "2026-04-22"
+   ]
+  },
+  {
+   "id": "r010",
+   "type": "real",
+   "slug": "rwaur",
+   "target": "RW Aurigae",
+   "x": 15,
+   "y": 14,
+   "ra": 76.956417,
+   "dec": 30.399709,
+   "auto": "moved",
+   "known": "Gaia DR3 156430822114424576",
+   "vet": 40,
+   "cls": "Strong IR excess (saturated star)",
+   "dates": [
+    "2025-09-01",
+    "2026-02-20"
+   ]
+  },
+  {
+   "id": "r011",
+   "type": "real",
+   "slug": "rwaur",
+   "target": "RW Aurigae",
+   "x": 17,
+   "y": 15,
+   "ra": 76.952456,
+   "dec": 30.401417,
+   "auto": "fainter",
+   "known": "Gaia DR3 156430822114690560",
+   "vet": 65,
+   "cls": "Strong IR excess (saturated star)",
+   "dates": [
+    "2025-09-01",
+    "2026-02-20"
+   ]
+  },
+  {
+   "id": "r012",
+   "type": "real",
+   "slug": "survey_j005504d98p253506d3",
+   "target": "CWISE J005504.98+253506.3",
+   "x": 25,
+   "y": 10,
+   "ra": 13.751843,
+   "dec": 25.576551,
+   "auto": "brighter",
+   "known": "CWISE J005500.32+253433.8",
+   "vet": 75,
+   "cls": "Unclear (noisy colours)",
+   "dates": [
+    "2025-07-04",
+    "2026-07-05"
+   ]
+  },
+  {
+   "id": "r013",
+   "type": "real",
+   "slug": "survey_j041507d40m452150d9",
+   "target": "CWISE J041507.40-452150.9",
+   "x": 9,
+   "y": 19,
+   "ra": 63.795441,
+   "dec": -45.35732,
+   "auto": "moved",
+   "known": "Gaia DR3 4837731972578743680",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-07-16",
+    "2026-07-15"
+   ]
+  },
+  {
+   "id": "r014",
+   "type": "real",
+   "slug": "survey_j041507d40m452150d9",
+   "target": "CWISE J041507.40-452150.9",
+   "x": 23,
+   "y": 28,
+   "ra": 63.7614,
+   "dec": -45.341945,
+   "auto": "moved",
+   "known": "Gaia DR3 4837732213096913280",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-07-16",
+    "2026-07-15"
+   ]
+  },
+  {
+   "id": "r015",
+   "type": "real",
+   "slug": "survey_j063147d40p570730d2",
+   "target": "CWISE J063147.40+570730.2",
+   "x": 25,
+   "y": 20,
+   "ra": 97.91604,
+   "dec": 57.133611,
+   "auto": "moved",
+   "known": "Gaia DR3 998287739762701824",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-09-16",
+    "2026-02-27"
+   ]
+  },
+  {
+   "id": "r016",
+   "type": "real",
+   "slug": "survey_j063147d40p570730d2",
+   "target": "CWISE J063147.40+570730.2",
+   "x": 12,
+   "y": 6,
+   "ra": 97.956954,
+   "dec": 57.109694,
+   "auto": "moved",
+   "known": "Gaia DR3 998287430525055488",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-09-16",
+    "2026-02-27"
+   ]
+  },
+  {
+   "id": "r017",
+   "type": "real",
+   "slug": "survey_j063147d40p570730d2",
+   "target": "CWISE J063147.40+570730.2",
+   "x": 9,
+   "y": 11,
+   "ra": 97.966396,
+   "dec": 57.118236,
+   "auto": "moved",
+   "known": "Gaia DR3 998287464884792320",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-09-16",
+    "2026-02-27"
+   ]
+  },
+  {
+   "id": "r018",
+   "type": "real",
+   "slug": "survey_j063147d40p570730d2",
+   "target": "CWISE J063147.40+570730.2",
+   "x": 7,
+   "y": 4,
+   "ra": 97.97269,
+   "dec": 57.106277,
+   "auto": "fainter",
+   "known": "Gaia DR3 998287430525054464",
+   "vet": 63,
+   "cls": "Unclear (noisy colours)",
+   "dates": [
+    "2025-09-16",
+    "2026-02-27"
+   ]
+  },
+  {
+   "id": "r019",
+   "type": "real",
+   "slug": "survey_j070533d93p553446d5",
+   "target": "CWISE J070533.93+553446.5",
+   "x": 28,
+   "y": 6,
+   "ra": 106.352093,
+   "dec": 55.564219,
+   "auto": "moved",
+   "known": "Gaia DR3 988330150144033024",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-09-24",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r020",
+   "type": "real",
+   "slug": "survey_j070748d03p590304d2",
+   "target": "CWISE J070748.03+590304.2",
+   "x": 23,
+   "y": 13,
+   "ra": 106.923588,
+   "dec": 59.047762,
+   "auto": "moved",
+   "known": "Gaia DR3 1002618406825052032",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-09-23",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r021",
+   "type": "real",
+   "slug": "survey_j070748d03p590304d2",
+   "target": "CWISE J070748.03+590304.2",
+   "x": 7,
+   "y": 12,
+   "ra": 106.976737,
+   "dec": 59.046054,
+   "auto": "moved",
+   "known": "Gaia DR3 1002615417527813376",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-09-23",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r022",
+   "type": "real",
+   "slug": "survey_j070748d03p590304d2",
+   "target": "CWISE J070748.03+590304.2",
+   "x": 10,
+   "y": 19,
+   "ra": 106.966772,
+   "dec": 59.058012,
+   "auto": "brighter",
+   "known": "Gaia DR3 1002615859909260288",
+   "vet": 55,
+   "cls": "Not detected",
+   "dates": [
+    "2025-09-23",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r023",
+   "type": "real",
+   "slug": "survey_j070748d03p590304d2",
+   "target": "CWISE J070748.03+590304.2",
+   "x": 5,
+   "y": 19,
+   "ra": 106.983381,
+   "dec": 59.058012,
+   "auto": "brighter",
+   "known": "CWISE J070755.78+590343.2",
+   "vet": 55,
+   "cls": "Not detected",
+   "dates": [
+    "2025-09-23",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r024",
+   "type": "real",
+   "slug": "survey_j070748d03p590304d2",
+   "target": "CWISE J070748.03+590304.2",
+   "x": 15,
+   "y": 20,
+   "ra": 106.950163,
+   "dec": 59.05972,
+   "auto": "brighter",
+   "known": "CWISE J070747.64+590331.8",
+   "vet": 55,
+   "cls": "Not detected",
+   "dates": [
+    "2025-09-23",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r025",
+   "type": "real",
+   "slug": "survey_j071659d79p602342d3",
+   "target": "CWISE J071659.79+602342.3",
+   "x": 4,
+   "y": 11,
+   "ra": 109.287193,
+   "dec": 60.388276,
+   "auto": "brighter",
+   "known": "Gaia DR3 1086832373218239872",
+   "vet": 78,
+   "cls": "Unclear (noisy colours)",
+   "dates": [
+    "2025-09-23",
+    "2026-03-06"
+   ]
+  },
+  {
+   "id": "r026",
+   "type": "real",
+   "slug": "survey_j094344d92p081345d3",
+   "target": "CWISE J094344.92+081345.3",
+   "x": 5,
+   "y": 6,
+   "ra": 145.95445,
+   "dec": 8.213901,
+   "auto": "moved",
+   "known": "CWISE J094348.77+081259.5",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-25",
+    "2026-04-23"
+   ]
+  },
+  {
+   "id": "r027",
+   "type": "real",
+   "slug": "survey_j094646d92p051340d8",
+   "target": "CWISE J094646.92+051340.8",
+   "x": 21,
+   "y": 20,
+   "ra": 146.685205,
+   "dec": 5.236545,
+   "auto": "moved",
+   "known": "CWISE J094644.85+051420.1",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-27",
+    "2026-05-01"
+   ]
+  },
+  {
+   "id": "r028",
+   "type": "real",
+   "slug": "survey_j094646d92p051340d8",
+   "target": "CWISE J094646.92+051340.8",
+   "x": 7,
+   "y": 4,
+   "ra": 146.709222,
+   "dec": 5.209212,
+   "auto": "moved",
+   "known": "Gaia DR3 3852867315582843264",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-27",
+    "2026-05-01"
+   ]
+  },
+  {
+   "id": "r029",
+   "type": "real",
+   "slug": "survey_j094646d92p051340d8",
+   "target": "CWISE J094646.92+051340.8",
+   "x": 24,
+   "y": 12,
+   "ra": 146.680059,
+   "dec": 5.222879,
+   "auto": "fainter",
+   "known": "Gaia DR3 3852868140216525440",
+   "vet": 35,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-27",
+    "2026-05-01"
+   ]
+  },
+  {
+   "id": "r030",
+   "type": "real",
+   "slug": "survey_j094859d00p092428d2",
+   "target": "CWISE J094859.00+092428.2",
+   "x": 5,
+   "y": 16,
+   "ra": 147.263186,
+   "dec": 9.409542,
+   "auto": "moved",
+   "known": "Gaia DR3 3879046790519781632",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-25",
+    "2026-04-23"
+   ]
+  },
+  {
+   "id": "r031",
+   "type": "real",
+   "slug": "survey_j095423d47p065722d1",
+   "target": "CWISE J095423.47+065722.1",
+   "x": 8,
+   "y": 7,
+   "ra": 148.609868,
+   "dec": 6.942479,
+   "auto": "moved",
+   "known": "Gaia DR3 3853546298372785664",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-24",
+    "2026-04-23"
+   ]
+  },
+  {
+   "id": "r032",
+   "type": "real",
+   "slug": "survey_j095855d54p105906d7",
+   "target": "CWISE J095855.54+105906.7",
+   "x": 5,
+   "y": 14,
+   "ra": 149.748841,
+   "dec": 10.983496,
+   "auto": "brighter",
+   "known": "Gaia DR3 3879541089715912320",
+   "vet": 100,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-25",
+    "2026-05-01"
+   ]
+  },
+  {
+   "id": "r033",
+   "type": "real",
+   "slug": "survey_j095855d54p105906d7",
+   "target": "CWISE J095855.54+105906.7",
+   "x": 14,
+   "y": 26,
+   "ra": 149.733179,
+   "dec": 11.003996,
+   "auto": "brighter",
+   "known": "Gaia DR3 3879541364593819520",
+   "vet": 65,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-25",
+    "2026-05-01"
+   ]
+  },
+  {
+   "id": "r034",
+   "type": "real",
+   "slug": "survey_j163647d51p605423d9",
+   "target": "CWISE J163647.51+605423.9",
+   "x": 26,
+   "y": 8,
+   "ra": 249.159336,
+   "dec": 60.894684,
+   "auto": "moved",
+   "known": "Gaia DR3 1624514415561199104",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-06-01",
+    "2026-05-27"
+   ]
+  },
+  {
+   "id": "r035",
+   "type": "real",
+   "slug": "survey_j163647d51p605423d9",
+   "target": "CWISE J163647.51+605423.9",
+   "x": 26,
+   "y": 17,
+   "ra": 249.159336,
+   "dec": 60.910059,
+   "auto": "fainter",
+   "known": "Gaia DR3 1624514484281296256",
+   "vet": 55,
+   "cls": "Normal star",
+   "dates": [
+    "2025-06-01",
+    "2026-05-27"
+   ]
+  },
+  {
+   "id": "r036",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 13,
+   "y": 14,
+   "ra": 253.620815,
+   "dec": 66.343021,
+   "auto": "moved",
+   "known": "Gaia DR3 1635729262365853440",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r037",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 17,
+   "y": 3,
+   "ra": 253.603784,
+   "dec": 66.324229,
+   "auto": "moved",
+   "known": "Gaia DR3 1635729193647750272",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r038",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 16,
+   "y": 8,
+   "ra": 253.608042,
+   "dec": 66.332771,
+   "auto": "moved",
+   "known": "Gaia DR3 1635729262367216512",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r039",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 27,
+   "y": 15,
+   "ra": 253.561207,
+   "dec": 66.344729,
+   "auto": "moved",
+   "known": "Gaia DR3 1635729502885426560",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r040",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 4,
+   "y": 7,
+   "ra": 253.659134,
+   "dec": 66.331062,
+   "auto": "moved",
+   "known": "Gaia DR3 1635729296727447424",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r041",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 2,
+   "y": 20,
+   "ra": 253.66765,
+   "dec": 66.353271,
+   "auto": "fainter",
+   "known": "Gaia DR3 1635729361150246656",
+   "vet": 55,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r042",
+   "type": "real",
+   "slug": "survey_j165427d90p662037d9",
+   "target": "CWISE J165427.90+662037.9",
+   "x": 26,
+   "y": 5,
+   "ra": 253.565465,
+   "dec": 66.327646,
+   "auto": "fainter",
+   "known": "Gaia DR3 1635729228007478016",
+   "vet": 55,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-16",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r043",
+   "type": "real",
+   "slug": "survey_j182953d43p570039d0",
+   "target": "CWISE J182953.43+570039.0",
+   "x": 27,
+   "y": 17,
+   "ra": 277.435128,
+   "dec": 57.016138,
+   "auto": "moved",
+   "known": "Gaia DR3 2151193576326024064",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-04-25",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "r044",
+   "type": "real",
+   "slug": "survey_j220058d00m285522d9",
+   "target": "CWISE J220058.00-285522.9",
+   "x": 12,
+   "y": 16,
+   "ra": 330.247549,
+   "dec": -28.921323,
+   "auto": "moved",
+   "known": "CWISE J220059.70-285526.4",
+   "vet": 40,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "r045",
+   "type": "real",
+   "slug": "survey_j220058d00m285522d9",
+   "target": "CWISE J220058.00-285522.9",
+   "x": 18,
+   "y": 6,
+   "ra": 330.235839,
+   "dec": -28.938406,
+   "auto": "fainter",
+   "known": "Gaia DR3 6616902383736082048",
+   "vet": 75,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "r046",
+   "type": "real",
+   "slug": "survey_j220458d40m273022d0",
+   "target": "CWISE J220458.40-273022.0",
+   "x": 9,
+   "y": 18,
+   "ra": 331.25489,
+   "dec": -27.501003,
+   "auto": "fainter",
+   "known": "Gaia DR3 6619334984493164288",
+   "vet": 68,
+   "cls": "Unclear (noisy colours)",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "r047",
+   "type": "real",
+   "slug": "survey_j220458d40m273022d0",
+   "target": "CWISE J220458.40-273022.0",
+   "x": 11,
+   "y": 5,
+   "ra": 331.251038,
+   "dec": -27.523211,
+   "auto": "fainter",
+   "known": "CWISE J220500.81-273125.0",
+   "vet": 100,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "r048",
+   "type": "real",
+   "slug": "wise0855",
+   "target": "WISE 0855-0714",
+   "x": 52,
+   "y": 45,
+   "ra": 133.720263,
+   "dec": -7.214916,
+   "auto": "moved",
+   "known": "Gaia DR3 5756959491950135168",
+   "vet": 40,
+   "cls": "Unclear (noisy colours)",
+   "dates": [
+    "2025-05-05",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "r049",
+   "type": "real",
+   "slug": "wise0855",
+   "target": "WISE 0855-0714",
+   "x": 7,
+   "y": 20,
+   "ra": 133.797756,
+   "dec": -7.257624,
+   "auto": "brighter",
+   "known": "Gaia DR3 5756955785394371328",
+   "vet": 100,
+   "cls": "Normal star",
+   "dates": [
+    "2025-05-05",
+    "2026-04-21"
+   ]
+  },
+  {
+   "id": "g050",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "barnard",
+   "target": "Barnard's Star",
+   "x": 29,
+   "y": 29,
+   "explain": "This is Barnard's Star, the fastest-moving star in our sky (10.4\u2033/yr). It really moves!",
+   "dates": [
+    "2025-08-15",
+    "2026-03-11"
+   ]
+  },
+  {
+   "id": "g051",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "epsindib",
+   "target": "Epsilon Indi B",
+   "x": 24,
+   "y": 24,
+   "explain": "This is Epsilon Indi B, a pair of brown dwarfs moving 4.7\u2033/yr. It really moves!",
+   "dates": [
+    "2025-04-24",
+    "2026-04-18"
+   ]
+  },
+  {
+   "id": "g052",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j132813d16p312308d5",
+   "target": "Simulated object",
+   "x": 19,
+   "y": 15,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-05-26",
+    "2026-05-22"
+   ]
+  },
+  {
+   "id": "g053",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j132813d16p312308d5",
+   "target": "Field star",
+   "x": 10,
+   "y": 16,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-05-26",
+    "2026-05-22"
+   ]
+  },
+  {
+   "id": "g054",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j220458d40m273022d0",
+   "target": "Simulated object",
+   "x": 14,
+   "y": 21,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "g055",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j220458d40m273022d0",
+   "target": "Field star",
+   "x": 10,
+   "y": 10,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "g056",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j220058d00m285522d9",
+   "target": "Simulated object",
+   "x": 22,
+   "y": 17,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "g057",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j220058d00m285522d9",
+   "target": "Field star",
+   "x": 12,
+   "y": 17,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-05-05",
+    "2026-05-05"
+   ]
+  },
+  {
+   "id": "g058",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j041507d40m452150d9",
+   "target": "Simulated object",
+   "x": 22,
+   "y": 12,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-07-16",
+    "2026-07-15"
+   ]
+  },
+  {
+   "id": "g059",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j041507d40m452150d9",
+   "target": "Field star",
+   "x": 9,
+   "y": 19,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-07-16",
+    "2026-07-15"
+   ]
+  },
+  {
+   "id": "g060",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j095855d54p105906d7",
+   "target": "Simulated object",
+   "x": 22,
+   "y": 20,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-04-25",
+    "2026-05-01"
+   ],
+   "example": true
+  },
+  {
+   "id": "g061",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j133232d50p262035d6",
+   "target": "Simulated object",
+   "x": 12,
+   "y": 16,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-05-26",
+    "2026-05-29"
+   ]
+  },
+  {
+   "id": "g062",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j063147d40p570730d2",
+   "target": "Simulated object",
+   "x": 18,
+   "y": 11,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-09-16",
+    "2026-02-27"
+   ]
+  },
+  {
+   "id": "g063",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j063147d40p570730d2",
+   "target": "Field star",
+   "x": 9,
+   "y": 11,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-09-16",
+    "2026-02-27"
+   ]
+  },
+  {
+   "id": "g064",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j100001d50p094156d8",
+   "target": "Simulated object",
+   "x": 19,
+   "y": 15,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-04-25",
+    "2026-04-23"
+   ]
+  },
+  {
+   "id": "g065",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j100001d50p094156d8",
+   "target": "Field star",
+   "x": 20,
+   "y": 13,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-04-25",
+    "2026-04-23"
+   ]
+  },
+  {
+   "id": "g066",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j070533d93p553446d5",
+   "target": "Simulated object",
+   "x": 12,
+   "y": 14,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-09-24",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "g067",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j070533d93p553446d5",
+   "target": "Field star",
+   "x": 18,
+   "y": 17,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-09-24",
+    "2026-03-07"
+   ]
+  },
+  {
+   "id": "g068",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j175531d58p641139d9",
+   "target": "Simulated object",
+   "x": 16,
+   "y": 21,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-04-25",
+    "2025-04-25"
+   ]
+  },
+  {
+   "id": "g069",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j175531d58p641139d9",
+   "target": "Field star",
+   "x": 20,
+   "y": 14,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-04-25",
+    "2025-04-25"
+   ]
+  },
+  {
+   "id": "g070",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j021414d62m184548d6",
+   "target": "Simulated object",
+   "x": 14,
+   "y": 13,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-07-07",
+    "2026-07-05"
+   ]
+  },
+  {
+   "id": "g071",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j021414d62m184548d6",
+   "target": "Field star",
+   "x": 18,
+   "y": 8,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-07-07",
+    "2026-07-05"
+   ]
+  },
+  {
+   "id": "g072",
+   "type": "gold",
+   "truth": "moved",
+   "slug": "survey_j100328d81p140631d5",
+   "target": "Simulated object",
+   "x": 19,
+   "y": 13,
+   "explain": "This was a simulated moving object we hid in real SPHEREx data, to check how well people spot movers. Did you catch it?",
+   "dates": [
+    "2025-04-25",
+    "2026-04-30"
+   ]
+  },
+  {
+   "id": "g073",
+   "type": "gold",
+   "truth": "nothing",
+   "slug": "survey_j100328d81p140631d5",
+   "target": "Field star",
+   "x": 9,
+   "y": 24,
+   "explain": "This is an ordinary distant star. It looks the same in both pictures: nothing moved, nothing changed.",
+   "dates": [
+    "2025-04-25",
+    "2026-04-30"
+   ]
+  }
+ ]
+}
