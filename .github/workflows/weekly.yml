@@ -1,0 +1,44 @@
+name: Weekly fresh SPHEREx sky
+on:
+  schedule:
+    - cron: "23 20 * * 1"
+  workflow_dispatch:
+    inputs:
+      n:
+        description: "How many new fields"
+        default: "2"
+permissions:
+  contents: write
+concurrency:
+  group: weekly-sky
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt pillow
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Headless browser for Find movers
+        run: |
+          npm install --no-save --no-package-lock playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - name: Find fresh sky and build fields
+        env:
+          WEEKLY_N: ${{ github.event.inputs.n || '2' }}
+        run: python pipeline/weekly_update.py
+      - name: Commit new fields
+        run: |
+          git config user.name "wanderer-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A web/data
+          if git diff --cached --quiet; then echo "Nothing new this week"; exit 0; fi
+          git commit -m "Weekly fresh SPHEREx sky ($(date -u +%Y-%m-%d))"
+          git push
