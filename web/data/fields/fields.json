@@ -1,6 +1,206 @@
 {
  "fields": [
   {
+   "id": "wk202647_1",
+   "slug": "wide_wk202647_1",
+   "name": "New sky 2026-W47 #1 (RA 62.67, Dec -7.34)",
+   "npix": 197,
+   "pixscale": 6.15,
+   "ra": 62.66707,
+   "dec": -7.33711,
+   "fov_arcmin": 20.2,
+   "dates": [
+    "2025-08-11",
+    "2026-09-05"
+   ],
+   "release": "DR1 + QR3",
+   "sims": [
+    {
+     "x": 34,
+     "y": 52,
+     "shift_px": 2.2
+    },
+    {
+     "x": 170,
+     "y": 127,
+     "shift_px": 2.1
+    }
+   ],
+   "computer": [
+    {
+     "kind": "moved",
+     "x": 70,
+     "y": 177,
+     "from": [
+      71,
+      177
+     ],
+     "snr": 14324.4,
+     "known": "Gaia DR3 3196206123566649088",
+     "pm": 7.532754210778418,
+     "vet": 40,
+     "cls": "Unclear (noisy colours)"
+    },
+    {
+     "kind": "moved",
+     "x": 8,
+     "y": 66,
+     "from": [
+      9,
+      65
+     ],
+     "snr": 229.9,
+     "known": "Gaia DR3 3196164548283306368",
+     "pm": 50.574500768667995,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 68,
+     "y": 37,
+     "from": [
+      68,
+      38
+     ],
+     "snr": 184.6,
+     "known": "Gaia DR3 3196164101606645376",
+     "pm": 2.3828726361264043,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 137,
+     "y": 93,
+     "from": [
+      136,
+      93
+     ],
+     "snr": 174.5,
+     "known": "Gaia DR3 3196178326538330368",
+     "pm": 29.46040288251334,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 103,
+     "y": 37,
+     "from": [
+      102,
+      37
+     ],
+     "snr": 149.4,
+     "known": "Gaia DR3 3196163517491097472",
+     "pm": 8.911610516623805,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 64,
+     "y": 140,
+     "from": [
+      69,
+      139
+     ],
+     "snr": 108.2,
+     "known": "Gaia DR3 3196202343995435008",
+     "pm": 37.394427780085095,
+     "vet": 28,
+     "cls": "Not detected"
+    },
+    {
+     "kind": "moved",
+     "x": 66,
+     "y": 145,
+     "from": [
+      68,
+      143
+     ],
+     "snr": 101.1,
+     "known": "CWISE J041054.18-071525.0",
+     "pm": 89.70011403585809,
+     "vet": 40,
+     "cls": "Unclear (noisy colours)"
+    },
+    {
+     "kind": "moved",
+     "x": 95,
+     "y": 179,
+     "from": [
+      96,
+      182
+     ],
+     "snr": 55,
+     "known": "CWISE J041041.68-071142.3",
+     "pm": 223.49427361376613,
+     "vet": 40,
+     "cls": "Unclear (noisy colours)"
+    },
+    {
+     "kind": "moved",
+     "x": 141,
+     "y": 154,
+     "from": [
+      142,
+      154
+     ],
+     "snr": 48.7,
+     "known": "Gaia DR3 3196183033822479360",
+     "pm": 43.40425624290779,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 191,
+     "y": 156,
+     "from": [
+      190,
+      155
+     ],
+     "snr": 44.5,
+     "known": "Gaia DR3 3196229763066664320",
+     "pm": 13.322619862474497,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 134,
+     "y": 185,
+     "from": [
+      135,
+      185
+     ],
+     "snr": 43.4,
+     "known": "Gaia DR3 3196206913840639104",
+     "pm": 38.587163927917786,
+     "vet": 40,
+     "cls": "Normal star"
+    },
+    {
+     "kind": "moved",
+     "x": 163,
+     "y": 54,
+     "from": [
+      164,
+      55
+     ],
+     "snr": 39.3,
+     "known": "Gaia DR3 3196175990076130304",
+     "pm": 6.857731767866108,
+     "vet": 40,
+     "cls": "Normal star"
+    }
+   ],
+   "known": [],
+   "weekly": true,
+   "added": "2026-11-17"
+  },
+  {
    "id": "wk202646_1",
    "slug": "wide_wk202646_1",
    "name": "New sky 2026-W46 #1 (RA 7.70, Dec +31.99)",
@@ -2450,5 +2650,5 @@
    "known": []
   }
  ],
- "updated": "2026-11-13"
+ "updated": "2026-11-17"
 }
